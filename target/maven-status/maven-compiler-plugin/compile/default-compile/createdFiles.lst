@@ -1,0 +1,6 @@
+com\hakancemgercek\starter\SpringRestApiApplication.class
+com\hakancemgercek\starter\service\EmployeeService.class
+com\hakancemgercek\starter\model\Employee.class
+com\hakancemgercek\starter\repository\EmployeeRepository.class
+com\hakancemgercek\starter\config\AppConfig.class
+com\hakancemgercek\starter\controller\EmployeeController.class
